@@ -14,3 +14,6 @@ Player Performance Metrics: Access detailed player statistics, such as batting a
 Team Performance Comparison: Compare team performance across seasons based on win-loss records, run rates, net run rates, and other key metrics.
 
 Whether you are a cricket enthusiast, a sports analyst, or a data enthusiast, this Power BI project offers a rich and engaging experience to delve into the fascinating world of IPL. Unlock hidden insights, make data-driven decisions, and discover exciting trends by leveraging the power of data visualization in IPL Analysis.
+
+
+![image](https://github.com/user-attachments/assets/7c7eb235-9847-4b41-a170-81c28339b696)
